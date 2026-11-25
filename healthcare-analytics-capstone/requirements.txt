@@ -1,0 +1,8 @@
+# Python dependencies used in the capstone notebooks.
+# For strict reproducibility, replace with versions from the final tested Colab environment.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+openpyxl
